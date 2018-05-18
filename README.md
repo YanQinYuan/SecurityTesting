@@ -11,6 +11,9 @@
 - [17个好用的渗透测试工具](http://www.aqniu.com/hack-geek/28188.html)
 
 
+
+### Nessus
+- [Nessus破解版下载](https://www.52pojie.cn/thread-702905-1-1.html)
 ### 渗透测试工程师基本素养（以下摘自某招聘网站）
 
 1. 熟悉网络七层模型及一些网络协议；精通web攻击、渗透技术，精通asp/asp.net/php/java代码防护；
